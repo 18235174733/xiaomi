@@ -1,0 +1,196 @@
+/*
+* @Author: Administrator
+* @Date:   2017-04-11 10:23:03
+* @Last Modified by:   Administrator
+* @Last Modified time: 2017-04-11 11:15:10
+*/
+*{
+	list-style: none;
+	margin: 0;
+	padding: 0;
+	-webkit-tap-highlight-color: rgba(0, 0, 0, 0);
+	-webkit-appearance: none;
+	-webkit-text-size-adjust:100%;
+	-webkit-user-select:none;
+	-webkit-overflow-scrolling: touch;
+	/* -webkit-transform: translate3d(0, 0, 0);transform: translate3d(0, 0, 0); */
+	max-height:9999999px;
+	-webkit-text-size-adjust:none;
+	-webkit-overflow-scrolling:touch; overflow-scrolling: touch;
+}
+a{
+	text-decoration: none;
+}
+body{
+	width: 100%;
+	height: 100%;
+	background: #F5F6FA;
+}
+
+
+
+
+.nav{
+	width: 100%;
+	height: 1rem;
+	background: #007BE3;
+	position: fixed;
+	z-index: 100;
+}
+.nav .nav1{
+	font-size: .3rem;
+	color: #fff;
+	float: left;
+	line-height: 1rem;
+	padding: 0 5.9%;
+	box-sizing: border-box;
+}
+.nav a{
+	color: #fff;
+}
+
+
+.banner{
+	width: 100%;
+	height: 5rem;
+}
+.banner .a{
+	width: 100%;
+	height: 5rem;
+}
+.as{
+	font-size: .2rem;
+	margin-top: .4rem;
+	margin-left: .3rem;
+}
+
+
+.ad{
+	width: 94%;
+	height: auto;
+	background: #fff;
+	margin: 0 auto;
+	margin-top: .1rem;
+}
+.ad .an1{
+	font-size: .2rem;
+	margin-left: .15rem;
+	padding-top: .3rem;
+}
+.ad .an2{
+	font-size: .2rem;
+	margin-left: .15rem;
+	padding-top: .3rem;
+}
+.ad .a{
+	width: 100%;
+	margin-top: .3rem;
+}
+.ad .a .left{
+	width: 49%;
+	float: left;
+}
+.ad .a .left img{
+	display: block;
+	width: 100%
+}
+.ad .a .right{
+	width: 49%;
+	float: right;
+}
+.ad .a .right img{
+	display: block;
+	width: 100%
+}
+.ad .aa{
+	width: 100%;
+	margin-top: .2rem;
+}
+.ad .aa img{
+	width: 100%;
+	display: block;
+	padding-top: .2rem;
+}
+
+
+
+
+.wei{
+	width: 100%;
+	text-align: center;
+	font-size: .25rem;
+	margin-top: .5rem;
+	margin-bottom: .3rem;
+}
+.aaaa{
+	width: 100%;
+	height: 1rem;
+}
+
+.w{
+	width: 100%;
+	height: 1rem;
+	background: #E7E7E7;
+	position: fixed;
+	bottom: 0;
+}
+.w .w1 i{
+	float: left;
+	margin-left: .5rem;
+	font-size: .2rem;
+}
+.w .w1{
+	width: 30%;
+	float: left;
+	box-sizing: border-box;
+	font-size: .2rem;
+	line-height: 1rem;
+	text-align: center;
+}
+.w .w1 p{
+	float: left;
+	margin-left: .2rem;
+}
+.w .w2{
+	width: 40%;
+	height: 1rem;
+	background: #FF8D12;
+	font-size: .2rem;
+	line-height: 1rem;
+	text-align: center;
+	border-radius: 5px;
+	margin-top: -.1rem;
+	color: #fff;
+	box-shadow: 0px 0px 8px #FF8D12; 
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
